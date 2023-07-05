@@ -69,6 +69,7 @@ body * {
     height: 32px;
 
     background: white var(--switch-bg-url) no-repeat center;
+
     border: 0px;
     border-radius: 50px;
 
